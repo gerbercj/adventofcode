@@ -1,0 +1,1 @@
+Please don't judge me too harshly on this code. I'm just banging out some quick scripts to try to get the answers as quickly as possible. Maybe if I have time this weekend I'll put it in a little framework and clean it up.
